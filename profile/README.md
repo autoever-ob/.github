@@ -13,9 +13,9 @@ ADD PROFILE IMAGE
 # 2. Team Members (팀원 및 팀 소개)
 | **김대환** | 김호집 | 성현주 | 추창우 | 권오윤 |
 |:------:|:------:|:------:|:------:|:------:|
-| <img src="https://avatars.githubusercontent.com/u/154658933?v=4" alt="김대환" width="150"> |  |  |  <img src="https://avatars.githubusercontent.com/u/87767242?v=4" alt="추창우" width="150"> |  |
+| <img src="https://avatars.githubusercontent.com/u/154658933?v=4" alt="김대환" width="150"> |  |  |  <img src="https://avatars.githubusercontent.com/u/87767242?v=4" alt="추창우" width="150"> | <img src="https://github.com/user-attachments/assets/b3bc919a-a43c-413d-9e8f-bb6d52e5e828" alt="권오윤" width="150" />  |
 | Android<br/>iOS | Android<br/>iOS | BackEnd | BackEnd | Android<br/>iOS |
-| [GitHub](https://github.com/Gumraze-git) |  |  | [GitHub](https://github.com/CHOOSLA) |  |
+| [GitHub](https://github.com/Gumraze-git) |  |  | [GitHub](https://github.com/CHOOSLA) | [GitHub](https://github.com/k-oyun) |
 
 <br/>
 <br/>
