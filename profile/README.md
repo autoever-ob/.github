@@ -6,7 +6,7 @@ ADD PROFILE IMAGE
 # 1. Project Overview (프로젝트 개요)
 - 프로젝트 이름: 프로젝트 이름을 작성하세요.
 - 프로젝트 설명: 중고차 거래 앱 어플리케이션
-https://avatars.githubusercontent.com/u/130360809?v=4
+
 <br/>
 <br/>
 
